@@ -1,0 +1,12 @@
+title: Yurdha Fadhila - Portfolio
+author: Yurdha Fadhila
+email: yurdhafadhila@gmail.com
+description: Yurdha Fadhila - Portfolio; Machine Learning, Apps, AI
+url: "https://dahliahadfury.github.io/"
+twitter_username: yurdhafadhila
+github_username:  dahliahadfury
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
